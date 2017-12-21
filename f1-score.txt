@@ -1,0 +1,222 @@
+communities size:4
+node: 0 k:  4 result: 0.32362884862884866
+query time:0.020492345
+communities size:6
+node: 0 k:  6 result: 0.39920446292995315
+query time:0.001764091
+communities size:5
+node: 0 k:  8 result: 0.49035292193186936
+query time:8.11089E-4
+communities size:5
+node: 0 k:  10 result: 0.36125532005020744
+query time:2.77067E-4
+communities size:2
+node: 0 k:  13 result: 0.481666002391391
+query time:2.16775E-4
+communities size:1
+node: 0 k:  16 result: 0.3370786516853933
+query time:1.12803E-4
+circles size:9
+communities size:3
+node: 107 k:  4 result: 0.14361976963256282
+query time:0.019740303
+communities size:4
+node: 107 k:  6 result: 0.4539092042492247
+query time:0.012346813
+communities size:3
+node: 107 k:  8 result: 0.5739230705872663
+query time:0.00762978
+communities size:3
+node: 107 k:  10 result: 0.6370039682539682
+query time:0.00694895
+communities size:2
+node: 107 k:  13 result: 0.6884364297945206
+query time:0.005027541
+communities size:2
+node: 107 k:  16 result: 0.6940952200901156
+query time:0.006776004
+circles size:14
+communities size:2
+node: 348 k:  4 result: 0.5200461796809404
+query time:0.01705413
+communities size:2
+node: 348 k:  6 result: 0.5005078720162519
+query time:0.009411524
+communities size:2
+node: 348 k:  8 result: 0.5178283873936048
+query time:0.005402679
+communities size:1
+node: 348 k:  10 result: 0.26330027051397653
+query time:0.00494063
+communities size:1
+node: 348 k:  13 result: 0.23773173391494
+query time:0.005055383
+communities size:1
+node: 348 k:  16 result: 0.23328591749644378
+query time:0.004571217
+circles size:7
+communities size:2
+node: 414 k:  4 result: 0.5090296051608408
+query time:0.013712624
+communities size:2
+node: 414 k:  6 result: 0.5207030240372189
+query time:0.008912157
+communities size:2
+node: 414 k:  8 result: 0.5397463656047015
+query time:0.007030945
+communities size:2
+node: 414 k:  10 result: 0.5454883175285952
+query time:0.005187771
+communities size:2
+node: 414 k:  13 result: 0.5480396059309384
+query time:0.004401606
+communities size:2
+node: 414 k:  16 result: 0.5362052877138413
+query time:0.004077351
+circles size:14
+communities size:1
+node: 686 k:  4 result: 0.7220216606498194
+query time:4.56989E-4
+communities size:2
+node: 686 k:  6 result: 0.7207339449541285
+query time:2.93419E-4
+communities size:2
+node: 686 k:  8 result: 0.6886515912897824
+query time:2.22005E-4
+communities size:1
+node: 686 k:  10 result: 0.7602339181286549
+query time:1.70464E-4
+communities size:1
+node: 686 k:  13 result: 0.6259541984732824
+query time:3.21894E-4
+communities size:1
+node: 686 k:  16 result: 0.5333333333333334
+query time:6.7021E-5
+circles size:13
+communities size:4
+node: 698 k:  4 result: 0.5307995559068157
+query time:0.001878966
+communities size:3
+node: 698 k:  6 result: 0.6629318394024276
+query time:2.62296E-4
+communities size:1
+node: 698 k:  8 result: 0.21875
+query time:3.63781E-4
+communities size:1
+node: 698 k:  10 result: 0.26
+query time:2.26473E-4
+communities size:1
+node: 698 k:  13 result: 0.4
+query time:8.3212E-5
+There is no community for this query with given truss value
+query time:1.2299E-5
+circles size:17
+communities size:5
+node: 1684 k:  4 result: 0.4196640720390721
+query time:0.013470287
+communities size:5
+node: 1684 k:  6 result: 0.5598436407769072
+query time:0.007410413
+communities size:5
+node: 1684 k:  8 result: 0.6590477994683603
+query time:0.001396194
+communities size:3
+node: 1684 k:  10 result: 0.8478113149645997
+query time:0.001277158
+communities size:3
+node: 1684 k:  13 result: 0.8222352724472367
+query time:8.71682E-4
+communities size:2
+node: 1684 k:  16 result: 0.7816779018327364
+query time:7.01823E-4
+circles size:46
+communities size:2
+node: 1912 k:  4 result: 0.43597811605295234
+query time:0.010383658
+communities size:2
+node: 1912 k:  6 result: 0.6296068481213799
+query time:0.002776259
+communities size:2
+node: 1912 k:  8 result: 0.6893678160919541
+query time:0.002184718
+communities size:2
+node: 1912 k:  10 result: 0.6704321262648761
+query time:0.002283359
+communities size:2
+node: 1912 k:  13 result: 0.6704908913920178
+query time:0.001856225
+communities size:1
+node: 1912 k:  16 result: 0.6002728512960437
+query time:0.001559458
+circles size:32
+communities size:1
+node: 3437 k:  4 result: 0.17699115044247787
+query time:6.1735E-4
+communities size:6
+node: 3437 k:  6 result: 0.27868555005072165
+query time:5.94061E-4
+communities size:7
+node: 3437 k:  8 result: 0.2511485835899812
+query time:3.31466E-4
+communities size:6
+node: 3437 k:  10 result: 0.2618120109188861
+query time:4.49395E-4
+communities size:5
+node: 3437 k:  13 result: 0.30371565706719633
+query time:2.27432E-4
+communities size:1
+node: 3437 k:  16 result: 0.40963855421686746
+query time:1.05714E-4
+circles size:17
+communities size:2
+node: 3980 k:  4 result: 0.7666666666666666
+query time:2.9932E-5
+communities size:1
+node: 3980 k:  6 result: 0.4
+query time:1.1396E-5
+There is no community for this query with given truss value
+query time:3.171E-6
+There is no community for this query with given truss value
+query time:5.644E-6
+There is no community for this query with given truss value
+query time:4.98E-6
+There is no community for this query with given truss value
+query time:2.542E-6
+k: 4 average: 0.4548445624860996
+k: 6 average: 0.5126126386538215
+k: 8 average: 0.46288165359575195
+k: 10 average: 0.46073372466237644
+k: 13 average: 0.47782697914115235
+k: 16 average: 0.4125587717664775
+
+
+
+
+# of vertices: 3997962
+# of edges: 34681189
+# dmax: 14815
+Index files are read and index is created 
+bucket 1's query time:301.593195336
+bucket 2's query time:218.095444071
+bucket 3's query time:142.962494779
+bucket 4's query time:100.938867473
+bucket 5's query time:37.402516812
+bucket 6's query time:2.15341E-4
+bucket 7's query time:1.22278E-4
+bucket 8's query time:7.9511E-5
+bucket 9's query time:1.807E-5
+bucket 10's query time:4.5478E-5
+
+
+# of vertices: 3997962
+# of edges: 34681189
+# dmax: 14815
+Index files are read and index is created 
+k= 5's high query time:324.920602619
+k= 6's high query time:186.804497832
+k= 7's high query time:107.000450862
+k= 8's high query time:58.447276174
+k= 5's low query time:63.199862905
+k= 6's low query time:19.648620265
+k= 7's low query time:7.263822275
+k= 8's low query time:3.535251367

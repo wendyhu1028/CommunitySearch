@@ -1,0 +1,25 @@
+Amazon
+# of vertices: 334863
+# of edges: 925872
+# dmax: 549
+graph read time: 1.113889338
+#kmax : 7
+truss computation time: 4.970010798
+Index for given graph is created. Index creation time: 1.534532056
+DBLP
+# of vertices: 317080
+# of edges: 1049866
+# dmax: 343
+graph read time: 0.96541902
+#kmax : 114
+truss computation time: 7.508791876
+Index for given graph is created. Index creation time: 2.021622854
+youtube
+# of vertices: 1134890
+# of edges: 2987624
+# dmax: 28754
+graph read time: 2.568268521
+#kmax : 19
+truss computation time: 114.549826888
+Index for given graph is created. Index creation time: 8.419189209
+enter query node id and k:truss value
